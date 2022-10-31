@@ -89,9 +89,6 @@ def add_object(space, radius, mass, pos):
     
     return shape
 
-def remove_object(space, object):
-    space.remove(object.shape, object.body)
-
 
 
 def run(WIN, width, height):
