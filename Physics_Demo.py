@@ -2,6 +2,8 @@
 # IF YOU GET ERROR MODULE NOT FOUND -> INSTALL IN CMD / POWERSHELL AND IT SHOULD WORK
 # Why Are You Looking At My Achievements????
 
+import txer as tx
+
 from msilib.schema import MsiAssembly
 from venv import create
 import matplotlib.pyplot as plt
